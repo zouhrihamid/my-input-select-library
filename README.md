@@ -5,10 +5,10 @@
 #####  Installation
 
 Installez la bibliothèque avec npm :
- npm install my-input-select-library@1.0.4
+ npm install my-input-select-library
 
 Ou avec Yarn :
-yarn add my-input-select-library@1.0.4
+yarn add my-input-select-library
 
 #### Utilisation
 import React, { useState } from 'react';
